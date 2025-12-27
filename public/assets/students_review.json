@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Deepak Sharma",
+    "review": "Learning at Dite Academy was a turning point in my career. The trainers not only taught programming but also explained how to apply it in real projects. The personalized support really boosted my confidence.",
+    "avatar": "/images/reviews_img/Deepak.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hariom Verma",
+    "review": "I completed the Advanced Excel and MS Office course at Dite Academy. The practical training made my office work much easier. The instructor’s way of teaching is very simple and professional.",
+    "avatar": "/images/reviews_img/Hariom.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar",
+    "review": "The Digital Marketing course at Dite Academy gave me complete knowledge of SEO, Google Ads, and social media strategy. I started freelancing right after completing the course!",
+    "avatar": "/images/reviews_img/Nikunj.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nikhil Patel",
+    "review": "The classes are very interactive, and the teachers are highly supportive. Every concept was explained with real examples, which made learning much easier and more interesting.",
+    "avatar": "/images/reviews_img/Nitin.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Rohit Singh",
+    "review": "I joined the Full Stack Web Development course and learned everything from scratch — HTML, CSS, JavaScript, and React. The practical sessions helped me build real projects that strengthened my resume.",
+    "avatar": "/images/reviews_img/Suraj.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ajay Saini",
+    "review": "I’m really thankful to Dite Academy for their excellent teaching. The trainers are patient, friendly, and focused on helping every student understand the concepts clearly.",
+    "avatar": "/images/reviews_img/Sonu.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nakul Singh",
+    "review": "The learning environment at Dite Academy is great. The mentors guide you step-by-step and also help with interview preparation. It’s the perfect place to start a tech career.",
+    "avatar": "/images/reviews_img/Gourav.jpg"
+  }
+]

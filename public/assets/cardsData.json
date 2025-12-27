@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Digital Marketing",
+    "description": "The digital marketing course at Dite Academy covers SEO, social media, email marketing, and analytics, equipping you to boost online presence and enhance career opportunities.",
+    "image": "/images/card_img/digital.jpg",
+    "alt": "Digital Marketing Course"
+  },
+  {
+    "title": "Social Media Marketing",
+    "description": "Learn how to manage social media platforms effectively, create engaging content, and run campaigns that drive real business results.",
+    "image": "/images/card_img/social.jpg",
+    "alt": "Social Media Marketing Course"
+  },
+  {
+    "title": "SEO Mastery",
+    "description": "Master the latest SEO tools and strategies to improve website rankings, boost visibility, and attract more organic traffic.",
+    "image": "/images/card_img/seo.jpg",
+    "alt": "SEO Mastery Course"
+  },
+  {
+    "title": "Analytics for Business",
+    "description": "Learn how to use analytics tools and techniques to make data-driven business decisions, measure performance, and optimize growth.",
+    "image": "/images/card_img/business.jpg",
+    "alt": "Business Analytics Course"
+  },
+  {
+    "title": "Graphic Design",
+    "description": "Unleash your creativity with Dite Academy’s Graphic Design course. Learn Photoshop, Illustrator, and design principles for professional branding.",
+    "image": "/images/card_img/graphic.jpg",
+    "alt": "Graphic Design Course"
+  },
+  {
+    "title": "Web Development",
+    "description": "Build modern, responsive websites from scratch using HTML, CSS, JavaScript, and React in our full-stack web development program.",
+    "image": "/images/card_img/webdev.jpg",
+    "alt": "Web Development Course"
+  },
+  {
+    "title": "English Speaking",
+    "description": "Improve your communication skills and speak confidently with Dite Academy’s English Speaking and Personality Development training.",
+    "image": "/images/card_img/eng.jpg",
+    "alt": "English Speaking Course"
+  }
+]

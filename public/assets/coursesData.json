@@ -1,0 +1,26 @@
+[
+    {
+        "logo": "images/course-logo.svg",
+        "name": "BCA"
+    },
+    {
+        "logo": "images/course-logo.svg",
+        "name": "B.COM"
+    },
+    {
+        "logo": "images/course-logo.svg",
+        "name": "BA"
+    },
+    {
+        "logo": "images/course-logo.svg",
+        "name": "MA"
+    },
+    {
+        "logo": "images/course-logo.svg",
+        "name": "BBA"
+    },
+    {
+        "logo": "images/course-logo.svg",
+        "name": "10, 11, 12th"
+    }
+]
